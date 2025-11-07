@@ -24,8 +24,8 @@ Aprende los fundamentos avanzados de TypeScript que necesitarás para NestJS.
 - **[1️⃣ Generics: Código Reutilizable con Type Safety](./1.Generics[TypeScript].md)** — Bases de los generics, constraints, múltiples type parameters, repository pattern en NestJS
 - **[2️⃣ Utility Types: Transformaciones Built-in](./2.Utility-Types[TypeScript].md)** — Partial, Pick, Omit, Record, Exclude, Extract, NonNullable, ReturnType, Parameters, Awaited
 - **[3️⃣ Conditional Types: Tipos que Dependen de Condiciones](./3.Conditional-Types[TypeScript].md)** — Sintaxis ternaria de tipos, inferencia con infer, distribución, casos reales NestJS
-- **[4️⃣ Mapped Types: Transformaciones de Tipos](./4.Mapped-Types[typeScript].md)** — Iteración de propiedades, key remapping, filtrado de keys, recursividad
-- **[5️⃣ Template Literal Types: Strings Type-Safe](./5.Template-Literal-Types[typeScript].md)** — Strings con type safety, rutas type-safe, eventos, versionado API
+- **[4️⃣ Mapped Types: Transformaciones de Tipos](./4.Mapped-Types[TypeScript].md)** — Iteración de propiedades, key remapping, filtrado de keys, recursividad
+- **[5️⃣ Template Literal Types: Strings Type-Safe](./5.Template-Literal-Types[TypeScript].md)** — Strings con type safety, rutas type-safe, eventos, versionado API
 - **[6️⃣ Decorators Deep Dive: Metadata y Reflexión](./6.Decorators[TypeScript].md)** — Decorators avanzados, reflect-metadata, reflexión en runtime
 - **[7️⃣ Type Guards: Validación en Runtime](./7.Type-Guards[TypeScript].md)** — typeof, instanceof, custom guards, narrowing
 - **[8️⃣ Discriminated Unions: Type Narrowing](./8.Discriminated-Unions[TypeScript].md)** — Pattern matching, type narrowing con discriminators
